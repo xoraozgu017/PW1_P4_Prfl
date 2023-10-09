@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: antiquewhite;
+}
+
+header {
+  background-color: lightgray;
+  padding: 20px;
+}
+
+header ul li{
+    font-display: Script;
+    margin-left: 20px;
+    color: black;
+}
+
+.cover{
+    height: 30px;
+    width: 80%;
+    background-image: url(/image/blackclover.jpg);
+}
+
+h1 {
+  margin: 0;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+}
